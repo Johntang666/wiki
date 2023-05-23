@@ -1,8 +1,8 @@
 created: 20230523122837921
 creator: John
-modified: 20230523122842319
+modified: 20230523130833613
 modifier: John
 title: $:/config/Plugins/Disabled/$:/plugins/bimlas/kin-filter
 type: text/vnd.tiddlywiki
 
-no
+yes
