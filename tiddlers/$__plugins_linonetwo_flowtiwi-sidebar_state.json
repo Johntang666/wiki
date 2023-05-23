@@ -10,7 +10,7 @@
             "static": false
         },
         {
-            "w": 1,
+            "w": 2,
             "h": 1,
             "x": 0,
             "y": 14,
@@ -55,7 +55,7 @@
             "static": false
         },
         {
-            "w": 1,
+            "w": 2,
             "h": 1,
             "x": 0,
             "y": 15,
@@ -91,7 +91,7 @@
             "static": false
         },
         {
-            "w": 1,
+            "w": 2,
             "h": 1,
             "x": 0,
             "y": 16,
@@ -100,8 +100,8 @@
             "static": false
         },
         {
-            "w": 1,
-            "h": 1,
+            "w": 2,
+            "h": 2,
             "x": 0,
             "y": 17,
             "i": "$:/plugins/oflg/fishing-analysis/ui/SideBar/FishingAnalysis",
@@ -112,7 +112,7 @@
             "w": 1,
             "h": 1,
             "x": 0,
-            "y": 18,
+            "y": 19,
             "i": "$:/plugins/tiddlywiki/comments/sidebar",
             "moved": false,
             "static": false
